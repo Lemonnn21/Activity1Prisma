@@ -274,17 +274,17 @@ async function fetchAccountsWithDetails() {
 async function main() {
   // Create an account with profile
   const accountData = {
-    email: 'kevinmiles@gmail.com',
-    username: 'kevinmilespogi',
-    password: 'password123',
+    email: 'juliusdallo520@gmail.com',
+    username: 'JuliusDallo',
+    password: 'Aa12345',
   };
 
   const profileData = {
-    firstname: 'Kevin Miles',
-    lastname: 'Julhusin',
-    middlename: 'Aquino',
-    suffix: 'III',
-    bio: 'A passionate developer with expertise in web technologies',
+    firstname: 'Julius Dallo',
+    lastname: 'Dallo',
+    middlename: 'Obedoza',
+    suffix: 'II',
+    bio: 'I love technology',
     picture: 'https://example.com/profile-picture.jpg'
   };
 
